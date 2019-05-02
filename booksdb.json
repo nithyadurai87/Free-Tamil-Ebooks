@@ -1,5 +1,14 @@
 {
    "books": [
+      
+        {
+      "title": "Test இட ஒதுக்கீடு உரிமை",
+      "bookid": "05883f1f-ea3e-4d1b-9095-0e925744jsk6",
+      "author": "அதி அசுரன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2019/04/Ida_othukkeettu_Urimai_front.jpg",
+      "epub": "https://freetamilebooks.com/download/இட-ஒதுக்கீடு-உரிமை-epub/",
+      "category": "கட்டுரைகள்"
+    },
       {
            "title":"Test தமிழில் Machine Learning",
            "bookid":"6047c38b-589f-47c9-a337-5767fe38jsk8",
