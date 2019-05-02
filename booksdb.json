@@ -1,22 +1,5 @@
 {
    "books": [
-      
-        {
-      "title": "Test இட ஒதுக்கீடு உரிமை",
-      "bookid": "05883f1f-ea3e-4d1b-9095-0e925744jsk6",
-      "author": "அதி அசுரன்",
-      "image": "https://freetamilebooks.com/wp-content/uploads/2019/04/Ida_othukkeettu_Urimai_front.jpg",
-      "epub": "https://freetamilebooks.com/download/இட-ஒதுக்கீடு-உரிமை-epub/",
-      "category": "கட்டுரைகள்"
-    },
-      {
-           "title":"Test தமிழில் Machine Learning",
-           "bookid":"6047c38b-589f-47c9-a337-5767fe38jsk8",
-           "author":"து. நித்யா",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/04/learn_machine_learning_in_tamil_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-machine-learning-epub/",
-           "category":"கணினி நுட்பம்"
-        },
         {
            "title":"எளிய தமிழில் Machine Learning",
            "bookid":"6047c38b-589f-47c9-a337-5767fe38ef82",
