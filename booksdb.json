@@ -1,6 +1,78 @@
 {
    "books": [
       {
+           "title":"பண்டிதரின் கொடை",
+           "bookid":"f080e4c1-0cf8-4139-99ac-2e89c6c2bcc0",
+           "author":"கௌதம சன்னா",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/panditharin_kodai_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%aa%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%a4%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%af%8a%e0%ae%9f%e0%af%88-%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%ae%bf%e0%ae%a4%e0%ae%be%e0%ae%9a%e0%af%8d-epub/",
+           "category":"கட்டுரைகள்"
+        },
+{
+           "title":"வெற்றி முழக்கம்",
+           "bookid":"beb8ca67-0671-4d3e-ae89-1ed694c80be7",
+           "author":"நா. பார்த்தசாரதி",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/vetri_muzhakkam_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%86%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%bf-%e0%ae%ae%e0%af%81%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub-2/",
+           "category":"நாவல்"
+        },
+{
+           "title":"வாழ்க்கை வாழ்வதற்கே",
+           "bookid":"60b214fd-0692-4711-b6aa-e27c3f0f3109",
+           "author":"என். ஸ்ரீதரன்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/vaazkkai_vazvatharke_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88-%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%b5%e0%ae%a4%e0%ae%b1%e0%af%8d%e0%ae%95%e0%af%87-epub/",
+           "category":"சிறுகதைகள்"
+        },
+{
+           "title":"கர்வமும் காலணியும்",
+           "bookid":"3335be1b-bb22-4879-b0ec-df1e27206803",
+           "author":"நிர்மலா ராகவன்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/karvamum_kaalanium_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%95%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%ae%be%e0%ae%b2%e0%ae%a3%e0%ae%bf%e0%ae%af%e0%af%81%e0%ae%ae%e0%af%8d-epub/",
+           "category":"கட்டுரைகள்"
+        },
+{
+           "title":"கொழும்பு வழியே ஒரு பயணம்",
+           "bookid":"c8a66ee6-139e-49ea-b142-518612db73dc",
+           "author":"வித்யாசாகர்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/kozhumbu_vazhiyae_oru_payanam_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%95%e0%af%8a%e0%ae%b4%e0%af%81%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%af%81-%e0%ae%b5%e0%ae%b4%e0%ae%bf%e0%ae%af%e0%af%87-%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%aa%e0%ae%af%e0%ae%a3%e0%ae%ae%e0%af%8d-epub/",
+           "category":"கட்டுரைகள்"
+        },
+{
+           "title":"சச்சின் சுயசரிதையிலிருந்து சில பக்கங்கள்",
+           "bookid":"cb4eda1b-d1b9-4dba-b72f-9f74dcdbe4d6",
+           "author":"கொல்லால் எச்.ஜோஸ்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/sachin_suyasarithaiyilirunthu_sila_pakkangal_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%9a%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%af%e0%ae%9a%e0%ae%b0%e0%ae%bf%e0%ae%a4%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%a8/",
+           "category":"கட்டுரைகள்"
+        },
+{
+           "title":"சமணமும் தமிழும்",
+           "bookid":"0e74e0fe-3df9-4051-bef6-c5d063879274",
+           "author":"மயிலை சீனி. வேங்கடசாமி",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/samanamum_tamilum_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%9a%e0%ae%ae%e0%ae%a3%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%81%e0%ae%ae%e0%af%8d-epub/",
+           "category":"கட்டுரைகள்"
+        },
+{
+           "title":"தன்னம்பிக்கை துளிகள்",
+           "bookid":"62577476-c41b-4810-9e6a-013202315a72",
+           "author":"இனிய தமிழ் செல்வா",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/thannambikai_thuligal_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%a4%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88-%e0%ae%a4%e0%af%81%e0%ae%b3%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "category":"கவிதைகள்"
+        },
+{
+           "title":"வஸந்த கோகிலம்",
+           "bookid":"9269c6b4-068b-4f85-a27b-78a6f81a10b3",
+           "author":"வடுவூர் கே. துரைசாமி ஐயங்கார்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/vasantha_kokilam_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%b5%e0%ae%b8%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%95%e0%af%8b%e0%ae%95%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d-epub-2/",
+           "category":"நாவல்"
+        },
+      {
            "title":"அந்தமான் அழகு",
            "bookid":"cb5b3a69-5c73-40b1-b6bd-56eff464e16b",
            "author":"ஏற்காடு இளங்கோ",
