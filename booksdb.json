@@ -1,6 +1,14 @@
 {
    "books": [
       {
+           "title":"சந்திரமோகன்",
+           "bookid":"22653db2-07da-4d8a-979b-d94ae02a5d8e",
+           "author":"அறிஞர் அண்ணா",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/chandramohan_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%9a%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%ae%e0%af%8b%e0%ae%95%e0%ae%a9%e0%af%8d-epub/",
+           "category":"நாடகம்"
+        },
+      {
            "title":"திமிரழகி",
            "bookid":"d83b2b7e-c032-4531-bf1f-6fceace5144c",
            "author":"M.விக்னேஷ்",
