@@ -1,6 +1,14 @@
 {
    "books": [
       {
+           "title":"பார்வதி பி.ஏ.",
+           "bookid":"0b5bd491-dff6-4cbf-a04f-386f1f17a00d",
+           "author":"அறிஞர் அண்ணா",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/parvathi_b_a_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%aa%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%a4%e0%ae%bf-%e0%ae%aa%e0%ae%bf-%e0%ae%8f-epub/",
+           "category":"நாவல்"
+        },
+      {
            "title":"சந்திரமோகன்",
            "bookid":"22653db2-07da-4d8a-979b-d94ae02a5d8e",
            "author":"அறிஞர் அண்ணா",
