@@ -1,6 +1,30 @@
 {
    "books": [
       {
+           "title":"ஆரியர்க்கு முற்பட்ட தமிழ்ப்பண்பாடு",
+           "bookid":"31089418-3dff-461f-bbab-fa5153f04576",
+           "author":"கா. கோவிந்தன்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/aariyarkuku_murpatta_tamizhpanbaadu_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%86%e0%ae%b0%e0%ae%bf%e0%ae%af%e0%ae%b0%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%ae%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%8d%e0%ae%9f-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4/",
+           "category":"வரலாறு"
+        },
+      {
+           "title":"ஸ்பீனிக்ஸ் பெண்கள்",
+           "bookid":"1d8b5209-ec09-4f1a-be4f-87b4eb899a3d",
+           "author":"கார்த்திகா சுந்தர்ராஜ்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/phoenix_pengal_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%b8%e0%af%8d%e0%ae%aa%e0%af%80%e0%ae%a9%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%b8%e0%af%8d-%e0%ae%aa%e0%af%86%e0%ae%a3%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "category":"கட்டுரைகள்"
+        },
+      {
+           "title":"எளியோருக்கான சட்டங்கள்",
+           "bookid":"e2c414aa-3baa-4596-a879-b0b6d8171a88",
+           "author":"ராசா. துரியோதனன்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/eliyorkkaana_sattangal_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af%e0%af%8b%e0%ae%b0%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a9-%e0%ae%9a%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "category":"கட்டுரைகள்"
+        },
+      {
            "title":"பார்வதி பி.ஏ.",
            "bookid":"0b5bd491-dff6-4cbf-a04f-386f1f17a00d",
            "author":"அறிஞர் அண்ணா",
