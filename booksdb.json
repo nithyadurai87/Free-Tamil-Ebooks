@@ -1,6 +1,14 @@
 {
    "books": [
       {
+           "title":"நீதிதேவன் மயக்கம்",
+           "bookid":"c3725f28-11df-4abc-831d-0c5695c6ad95",
+           "author":"அறிஞர் அண்ணா",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/neethidevan_mayakkam_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%a8%e0%af%80%e0%ae%a4%e0%ae%bf%e0%ae%a4%e0%af%87%e0%ae%b5%e0%ae%a9%e0%af%8d-%e0%ae%ae%e0%ae%af%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub/",
+           "category":"நாடகம்"
+        },
+      {
            "title":"ஆரியர்க்கு முற்பட்ட தமிழ்ப்பண்பாடு",
            "bookid":"31089418-3dff-461f-bbab-fa5153f04576",
            "author":"கா. கோவிந்தன்",
