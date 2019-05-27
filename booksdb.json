@@ -1,6 +1,30 @@
 {
    "books": [
       {
+           "title":"360 டிகிரி – நேர்காணல்கள்",
+           "bookid":"41732697-21f4-47db-a702-5135bb913e82",
+           "author":"ச.அன்பரசு",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/360_degree_interview_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/360-%e0%ae%9f%e0%ae%bf%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%bf-%e0%ae%a8%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "category":"கட்டுரைகள்"
+        },
+      {
+           "title":"செல்வக் களஞ்சியமே – பாகம் 2",
+           "bookid":"c341e5c7-206b-48c7-a746-dfe4ef9aa3ef",
+           "author":"ரஞ்சனி நாராயணன்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/selva_kalanjiyamae_part_2_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%86%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%b3%e0%ae%9e%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%ae%e0%af%87-%e0%ae%aa%e0%ae%be%e0%ae%95%e0%ae%ae%e0%af%8d-2-epub/",
+           "category":"கட்டுரைகள்"
+        },
+      {
+           "title":"என் வாழ்வு",
+           "bookid":"c5597d29-4ed6-4287-a44a-35849097bdd5",
+           "author":"அறிஞர் அண்ணா",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/en_vaazhvu_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%b5%e0%af%81-epub/",
+           "category":"நாவல்"
+        },
+      {
            "title":"நீதிதேவன் மயக்கம்",
            "bookid":"c3725f28-11df-4abc-831d-0c5695c6ad95",
            "author":"அறிஞர் அண்ணா",
