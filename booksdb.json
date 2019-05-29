@@ -1,6 +1,14 @@
 {
    "books": [
       {
+           "title":"எளிய தமிழில் CNC",
+           "bookid":"3ddd4728-5edc-4043-9f7b-c9d8826a306a",
+           "author":"இரா. அசோகன்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/cnc_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-cnc-epub/",
+           "category":"அறிவியல்"
+        },
+      {
            "title":"360 டிகிரி – நேர்காணல்கள்",
            "bookid":"41732697-21f4-47db-a702-5135bb913e82",
            "author":"ச.அன்பரசு",
