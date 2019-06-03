@@ -1,6 +1,22 @@
 {
    "books": [
       {
+           "title":"கடற்கரைச் சுவடுகள்",
+           "bookid":"7d008ae7-972c-4a47-8003-b37f208b7dd1",
+           "author":"நவீன் ராஜ் தங்கவேல்",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/06/kadarkarai_suvadugal_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%95%e0%ae%9f%e0%ae%b1%e0%af%8d%e0%ae%95%e0%ae%b0%e0%af%88%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%b5%e0%ae%9f%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "category":"கவிதை"
+        },
+      {
+           "title":"உயிரை மறந்த உடல்கள்",
+           "bookid":"bcb3938c-88f8-4a86-a158-2b977830d410",
+           "author":"சுப. இரத்தினகிரி",
+           "image":"http://freetamilebooks.com/wp-content/uploads/2019/06/uyirai_marantha_udalgal_cover.jpg",
+           "epub":"http://freetamilebooks.com/download/%e0%ae%89%e0%ae%af%e0%ae%bf%e0%ae%b0%e0%af%88-%e0%ae%ae%e0%ae%b1%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%89%e0%ae%9f%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "category":"நாவல்"
+        },
+      {
            "title":"எளிய தமிழில் CNC",
            "bookid":"3ddd4728-5edc-4043-9f7b-c9d8826a306a",
            "author":"இரா. அசோகன்",
