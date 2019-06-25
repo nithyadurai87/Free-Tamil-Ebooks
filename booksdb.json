@@ -1,6 +1,106 @@
 {
    "books": [
       {
+        "title": "எண்ணங்களின் சிதறல்கள்",
+        "bookid": "f8f11b10-4619-4c2e-8a19-0c1090208d04",
+        "author": "சிவகுமாரி ஆவுடையப்பன்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/ennangalin_sitharalgal_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%a4%e0%ae%b1%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+        "category": "கவிதைகள்"
+    },    {
+        "title": "மார்க்சியமும் தமிழ் இலக்கியமும்",
+        "bookid": "1a30d350-56b0-4247-af75-f8320446df45",
+        "author": "கோவை ஞானி",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/marx_and_tamil_literature_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d-%e0%ae%87%e0%ae%b2%e0%ae%95%e0%af%8d/",
+        "category": "கட்டுரைகள்"
+    },
+    {
+        "title": "விதை",
+        "bookid": "5bfbb93c-e4f3-4b94-9134-f6d49f0b967c",
+        "author": "பொன் குலேந்திரன்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/vitai_kuru_novel_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%bf%e0%ae%a4%e0%af%88-epub/",
+        "category": "நாவல்"
+    },
+    {
+        "title": "அறிந்தனவற்றின் அறிவியல் தேடல்",
+        "bookid": "cb12353a-6552-409b-9519-c13c95c70133",
+        "author": "ஜுல்பிஹார் அஹமது",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/arindanavattrin_ariviyal_thedal_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b1%e0%ae%bf%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%a9%e0%ae%b5%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%85%e0%ae%b1%e0%ae%bf%e0%ae%b5%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d/",
+        "category": "கட்டுரைகள்"
+    },
+    {
+        "title": "தமிழியல் ஆய்வுகள் தமிழ்நேயத்தின் பார்வை",
+        "bookid": "7d85d38e-527a-4c16-8793-a63ab8724e6a",
+        "author": "இர.ஜோதிமீனா",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/tamizhiyal_aaivugal_tamizhneyathin_paarvai_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%86%e0%ae%af%e0%af%8d%e0%ae%b5%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d%e0%ae%a8/",
+        "category": "கட்டுரைகள்"
+    },{
+        "title": "நாட்டை உலுக்கும் ரபேல் பேர ஊழல்",
+        "bookid": "67a2fcec-64ca-4847-bb7e-67bc7326c425",
+        "author": "எஸ். விஜயன்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/naattai_ulukkum_rafale_pera_oozhal_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%88-%e0%ae%89%e0%ae%b2%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%b0%e0%ae%aa%e0%af%87%e0%ae%b2%e0%af%8d-%e0%ae%aa/",
+        "category": "கட்டுரைகள்"
+    },
+    {
+        "title": "கலிங்கம் கண்ட காவலர்",
+        "bookid": "59847ae1-b07a-428d-a19e-3dd6a1f30ea0",
+        "author": "புலவர் கா.கோவிந்தன்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/kalingam_kanda_kaavalar_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%b2%e0%ae%bf%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%ae%a3%e0%af%8d%e0%ae%9f-%e0%ae%95%e0%ae%be%e0%ae%b5%e0%ae%b2%e0%ae%b0%e0%af%8d-epub/",
+        "category": "வரலாறு"
+    },    {
+        "title": "கல்வி எனும் கண்",
+        "bookid": "22b9ced0-485d-4e32-b584-d6018f83ccaf",
+        "author": "அ.மு.பரமசிவானந்தம்‎",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/kalvi_enum_kan_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%bf-%e0%ae%8e%e0%ae%a9%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%ae%a3%e0%af%8d-epub/",
+        "category": "கட்டுரை"
+    },
+    {
+        "title": "அறிவுக் கதைகள்",
+        "bookid": "c9febd0c-3861-482e-a8a3-371ae60fcc4a",
+        "author": "கி.ஆ.பெ.விசுவநாதம்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/arivu_kadhaigal_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b1%e0%ae%bf%e0%ae%b5%e0%af%81%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+        "category": "சிறுகதைகள்"
+    },
+    {
+        "title": "மாவீரன் சிவாஜி காவித் தலைவன் அல்ல காவியத் தலைவன்",
+        "bookid": "c85165f0-cc9e-487f-abce-fb69b66f7f76",
+        "author": "செ. நடேசன்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/sivaji_kaaviya_thalaivan_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%ae%be%e0%ae%b5%e0%af%80%e0%ae%b0%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%b5%e0%ae%be%e0%ae%9c%e0%ae%bf-%e0%ae%95%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%b2/",
+        "category": "கட்டுரை"
+    },
+    {
+        "title": "இளைஞர்களுக்கு தந்தை பெரியார் வரலாறு",
+        "bookid": "76f1aab6-4476-4a55-9158-532860073f3f",
+        "author": "பாவலர் நாரா. நாச்சியப்பன்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/ilaigargaluku_thanthai_periyar_varalaru_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%87%e0%ae%b3%e0%af%88%e0%ae%9e%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%a4%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%af%88-%e0%ae%aa%e0%af%86%e0%ae%b0-5/",
+        "category": "வரலாறு"
+    },{
+        "title": "கப்பலோட்டிய தமிழன் வ.உ.சி",
+        "bookid": "bf3d8607-ac59-421b-894e-8c2e4ceeb4e9",
+        "author": "என்.வி.கலைமணி",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/kappalotiya_tamizhan_voc_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%b2%e0%af%8b%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%a9%e0%af%8d-%e0%ae%b5-%e0%ae%89-%e0%ae%9a%e0%ae%bf/",
+        "category": "கட்டுரை"
+    },
+    {
+        "title": "இந்திய நாத்திகமும் மார்க்சீயத் தத்துவமும்",
+        "bookid": "8cca6695-7d2e-4f2e-b629-a3bc1556fa21",
+        "author": "நா.வானமாமலை",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/06/Indhiya_Naathigamum_Marxia_Thathuvamum_cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%87%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%af-%e0%ae%a8%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%ae%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%95/",
+        "category": "கட்டுரை"
+    },
+      {
            "title":"கடற்கரைச் சுவடுகள்",
            "bookid":"7d008ae7-972c-4a47-8003-b37f208b7dd1",
            "author":"நவீன் ராஜ் தங்கவேல்",
