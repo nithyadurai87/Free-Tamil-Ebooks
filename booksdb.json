@@ -1,6 +1,23 @@
 {
    "books": [
       {
+        "title": "தேசிய கல்விக் கொள்கை–2019-வரைவு",
+        "bookid": "f1f1670e-e7d9-4a7d-889b-ae324327a1a5",
+        "author": "இந்திய மாணவர் இயக்கம்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/07/cover-2.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%af%87%e0%ae%9a%e0%ae%bf%e0%ae%af-%e0%ae%95%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%af%8d-%e0%ae%95%e0%af%8a%e0%ae%b3%e0%af%8d%e0%ae%95%e0%af%88-2019-epub-2/",
+        "category": "வரைவு"
+    }, 
+      {
+        "title": "நவீன சிந்தனையின் இந்தியப் பன்முகங்கள்",
+        "bookid": "8f607c1e-62b7-4199-9319-2c79534d4561",
+        "author": "ஆர்.பட்டாபிராமன்",
+        "image": "https://freetamilebooks.com/wp-content/uploads/2019/07/cover.jpg",
+        "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%ae%b5%e0%af%80%e0%ae%a9-%e0%ae%9a%e0%ae%bf%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%a9%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%87%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%af%e0%ae%aa/",
+        "category": "கட்டுரைகள்"
+    }, 
+      
+      {
         "title": "எண்ணங்களின் சிதறல்கள்",
         "bookid": "f8f11b10-4619-4c2e-8a19-0c1090208d04",
         "author": "சிவகுமாரி ஆவுடையப்பன்",
@@ -104,40 +121,40 @@
            "title":"கடற்கரைச் சுவடுகள்",
            "bookid":"7d008ae7-972c-4a47-8003-b37f208b7dd1",
            "author":"நவீன் ராஜ் தங்கவேல்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/06/kadarkarai_suvadugal_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%95%e0%ae%9f%e0%ae%b1%e0%af%8d%e0%ae%95%e0%ae%b0%e0%af%88%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%b5%e0%ae%9f%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/06/kadarkarai_suvadugal_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%95%e0%ae%9f%e0%ae%b1%e0%af%8d%e0%ae%95%e0%ae%b0%e0%af%88%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%b5%e0%ae%9f%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
            "category":"கவிதை"
         },
       {
            "title":"உயிரை மறந்த உடல்கள்",
            "bookid":"bcb3938c-88f8-4a86-a158-2b977830d410",
            "author":"சுப. இரத்தினகிரி",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/06/uyirai_marantha_udalgal_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%89%e0%ae%af%e0%ae%bf%e0%ae%b0%e0%af%88-%e0%ae%ae%e0%ae%b1%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%89%e0%ae%9f%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/06/uyirai_marantha_udalgal_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%89%e0%ae%af%e0%ae%bf%e0%ae%b0%e0%af%88-%e0%ae%ae%e0%ae%b1%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%89%e0%ae%9f%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
            "category":"நாவல்"
         },
       {
            "title":"எளிய தமிழில் CNC",
            "bookid":"3ddd4728-5edc-4043-9f7b-c9d8826a306a",
            "author":"இரா. அசோகன்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/cnc_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-cnc-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/cnc_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-cnc-epub/",
            "category":"அறிவியல்"
         },
       {
            "title":"360 டிகிரி – நேர்காணல்கள்",
            "bookid":"41732697-21f4-47db-a702-5135bb913e82",
            "author":"ச.அன்பரசு",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/360_degree_interview_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/360-%e0%ae%9f%e0%ae%bf%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%bf-%e0%ae%a8%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/360_degree_interview_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/360-%e0%ae%9f%e0%ae%bf%e0%ae%95%e0%ae%bf%e0%ae%b0%e0%ae%bf-%e0%ae%a8%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%b2%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
            "category":"கட்டுரைகள்"
         },
       {
            "title":"செல்வக் களஞ்சியமே – பாகம் 2",
            "bookid":"c341e5c7-206b-48c7-a746-dfe4ef9aa3ef",
            "author":"ரஞ்சனி நாராயணன்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/selva_kalanjiyamae_part_2_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%9a%e0%af%86%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%b3%e0%ae%9e%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%ae%e0%af%87-%e0%ae%aa%e0%ae%be%e0%ae%95%e0%ae%ae%e0%af%8d-2-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/selva_kalanjiyamae_part_2_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%9a%e0%af%86%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%b3%e0%ae%9e%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%ae%e0%af%87-%e0%ae%aa%e0%ae%be%e0%ae%95%e0%ae%ae%e0%af%8d-2-epub/",
            "category":"கட்டுரைகள்"
         },
       {
@@ -152,144 +169,144 @@
            "title":"நீதிதேவன் மயக்கம்",
            "bookid":"c3725f28-11df-4abc-831d-0c5695c6ad95",
            "author":"அறிஞர் அண்ணா",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/neethidevan_mayakkam_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%a8%e0%af%80%e0%ae%a4%e0%ae%bf%e0%ae%a4%e0%af%87%e0%ae%b5%e0%ae%a9%e0%af%8d-%e0%ae%ae%e0%ae%af%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/neethidevan_mayakkam_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%a8%e0%af%80%e0%ae%a4%e0%ae%bf%e0%ae%a4%e0%af%87%e0%ae%b5%e0%ae%a9%e0%af%8d-%e0%ae%ae%e0%ae%af%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub/",
            "category":"நாடகம்"
         },
       {
            "title":"ஆரியர்க்கு முற்பட்ட தமிழ்ப்பண்பாடு",
            "bookid":"31089418-3dff-461f-bbab-fa5153f04576",
            "author":"கா. கோவிந்தன்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/aariyarkuku_murpatta_tamizhpanbaadu_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%86%e0%ae%b0%e0%ae%bf%e0%ae%af%e0%ae%b0%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%ae%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%8d%e0%ae%9f-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/aariyarkuku_murpatta_tamizhpanbaadu_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%86%e0%ae%b0%e0%ae%bf%e0%ae%af%e0%ae%b0%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%ae%e0%af%81%e0%ae%b1%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%8d%e0%ae%9f-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4/",
            "category":"வரலாறு"
         },
       {
            "title":"ஸ்பீனிக்ஸ் பெண்கள்",
            "bookid":"1d8b5209-ec09-4f1a-be4f-87b4eb899a3d",
            "author":"கார்த்திகா சுந்தர்ராஜ்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/phoenix_pengal_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%b8%e0%af%8d%e0%ae%aa%e0%af%80%e0%ae%a9%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%b8%e0%af%8d-%e0%ae%aa%e0%af%86%e0%ae%a3%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/phoenix_pengal_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%b8%e0%af%8d%e0%ae%aa%e0%af%80%e0%ae%a9%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%b8%e0%af%8d-%e0%ae%aa%e0%af%86%e0%ae%a3%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
            "category":"கட்டுரைகள்"
         },
       {
            "title":"எளியோருக்கான சட்டங்கள்",
            "bookid":"e2c414aa-3baa-4596-a879-b0b6d8171a88",
            "author":"ராசா. துரியோதனன்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/eliyorkkaana_sattangal_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af%e0%af%8b%e0%ae%b0%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a9-%e0%ae%9a%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/eliyorkkaana_sattangal_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af%e0%af%8b%e0%ae%b0%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a9-%e0%ae%9a%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
            "category":"கட்டுரைகள்"
         },
       {
            "title":"பார்வதி பி.ஏ.",
            "bookid":"0b5bd491-dff6-4cbf-a04f-386f1f17a00d",
            "author":"அறிஞர் அண்ணா",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/parvathi_b_a_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%aa%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%a4%e0%ae%bf-%e0%ae%aa%e0%ae%bf-%e0%ae%8f-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/parvathi_b_a_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%a4%e0%ae%bf-%e0%ae%aa%e0%ae%bf-%e0%ae%8f-epub/",
            "category":"நாவல்"
         },
       {
            "title":"சந்திரமோகன்",
            "bookid":"22653db2-07da-4d8a-979b-d94ae02a5d8e",
            "author":"அறிஞர் அண்ணா",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/chandramohan_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%9a%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%ae%e0%af%8b%e0%ae%95%e0%ae%a9%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/chandramohan_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%ae%e0%af%8b%e0%ae%95%e0%ae%a9%e0%af%8d-epub/",
            "category":"நாடகம்"
         },
       {
            "title":"திமிரழகி",
            "bookid":"d83b2b7e-c032-4531-bf1f-6fceace5144c",
            "author":"M.விக்னேஷ்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/thimirazhagi_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%ae%bf%e0%ae%b0%e0%ae%b4%e0%ae%95%e0%ae%bf-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/thimirazhagi_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%ae%bf%e0%ae%b0%e0%ae%b4%e0%ae%95%e0%ae%bf-epub/",
            "category":"கவிதைகள்"
         },
 {
            "title":"வெற்றி முழக்கம்",
            "bookid":"beb8ca67-0671-4d3e-ae89-1ed694c80be7",
            "author":"நா. பார்த்தசாரதி",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/vetri_muzhakkam_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%b5%e0%af%86%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%bf-%e0%ae%ae%e0%af%81%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub-2/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/vetri_muzhakkam_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%b5%e0%af%86%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%bf-%e0%ae%ae%e0%af%81%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub-2/",
            "category":"நாவல்"
         },
 {
            "title":"வாழ்க்கை வாழ்வதற்கே",
            "bookid":"60b214fd-0692-4711-b6aa-e27c3f0f3109",
            "author":"என். ஸ்ரீதரன்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/vaazkkai_vazvatharke_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88-%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%b5%e0%ae%a4%e0%ae%b1%e0%af%8d%e0%ae%95%e0%af%87-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/vaazkkai_vazvatharke_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88-%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%b5%e0%ae%a4%e0%ae%b1%e0%af%8d%e0%ae%95%e0%af%87-epub/",
            "category":"சிறுகதைகள்"
         },
 {
            "title":"கர்வமும் காலணியும்",
            "bookid":"3335be1b-bb22-4879-b0ec-df1e27206803",
            "author":"நிர்மலா ராகவன்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/karvamum_kaalanium_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%95%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%ae%be%e0%ae%b2%e0%ae%a3%e0%ae%bf%e0%ae%af%e0%af%81%e0%ae%ae%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/karvamum_kaalanium_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%95%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%ae%be%e0%ae%b2%e0%ae%a3%e0%ae%bf%e0%ae%af%e0%af%81%e0%ae%ae%e0%af%8d-epub/",
            "category":"கட்டுரைகள்"
         },
 {
            "title":"கொழும்பு வழியே ஒரு பயணம்",
            "bookid":"c8a66ee6-139e-49ea-b142-518612db73dc",
            "author":"வித்யாசாகர்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/kozhumbu_vazhiyae_oru_payanam_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%95%e0%af%8a%e0%ae%b4%e0%af%81%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%af%81-%e0%ae%b5%e0%ae%b4%e0%ae%bf%e0%ae%af%e0%af%87-%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%aa%e0%ae%af%e0%ae%a3%e0%ae%ae%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/kozhumbu_vazhiyae_oru_payanam_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%95%e0%af%8a%e0%ae%b4%e0%af%81%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%af%81-%e0%ae%b5%e0%ae%b4%e0%ae%bf%e0%ae%af%e0%af%87-%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%aa%e0%ae%af%e0%ae%a3%e0%ae%ae%e0%af%8d-epub/",
            "category":"கட்டுரைகள்"
         },
 {
            "title":"சச்சின் சுயசரிதையிலிருந்து சில பக்கங்கள்",
            "bookid":"cb4eda1b-d1b9-4dba-b72f-9f74dcdbe4d6",
            "author":"கொல்லால் எச்.ஜோஸ்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/sachin_suyasarithaiyilirunthu_sila_pakkangal_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%9a%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%af%e0%ae%9a%e0%ae%b0%e0%ae%bf%e0%ae%a4%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%a8/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/sachin_suyasarithaiyilirunthu_sila_pakkangal_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%af%e0%ae%9a%e0%ae%b0%e0%ae%bf%e0%ae%a4%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%a8/",
            "category":"கட்டுரைகள்"
         },
 {
            "title":"தன்னம்பிக்கை துளிகள்",
            "bookid":"62577476-c41b-4810-9e6a-013202315a72",
            "author":"இனிய தமிழ் செல்வா",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/thannambikai_thuligal_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%a4%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88-%e0%ae%a4%e0%af%81%e0%ae%b3%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/thannambikai_thuligal_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88-%e0%ae%a4%e0%af%81%e0%ae%b3%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
            "category":"கவிதைகள்"
         },
 {
            "title":"வஸந்த கோகிலம்",
            "bookid":"9269c6b4-068b-4f85-a27b-78a6f81a10b3",
            "author":"வடுவூர் கே. துரைசாமி ஐயங்கார்",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/vasantha_kokilam_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%b5%e0%ae%b8%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%95%e0%af%8b%e0%ae%95%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d-epub-2/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/vasantha_kokilam_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%b8%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%95%e0%af%8b%e0%ae%95%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d-epub-2/",
            "category":"நாவல்"
         },
 {
            "title":"சமணமும் தமிழும்",
            "bookid":"0e74e0fe-3df9-4051-bef6-c5d063879274",
            "author":"மயிலை சீனி. வேங்கடசாமி",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/samanamum_tamilum_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%9a%e0%ae%ae%e0%ae%a3%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%81%e0%ae%ae%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/samanamum_tamilum_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%ae%e0%ae%a3%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%81%e0%ae%ae%e0%af%8d-epub/",
            "category":"கட்டுரைகள்"
         },
       {
            "title":"பண்டிதரின் கொடை",
            "bookid":"f080e4c1-0cf8-4139-99ac-2e89c6c2bcc0",
            "author":"கௌதம சன்னா",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/panditharin_kodai_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%aa%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%a4%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%af%8a%e0%ae%9f%e0%af%88-%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%ae%bf%e0%ae%a4%e0%ae%be%e0%ae%9a%e0%af%8d-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/panditharin_kodai_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%a4%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%af%8a%e0%ae%9f%e0%af%88-%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%ae%bf%e0%ae%a4%e0%ae%be%e0%ae%9a%e0%af%8d-epub/",
            "category":"கட்டுரைகள்"
         },
       {
            "title":"அந்தமான் அழகு",
            "bookid":"cb5b3a69-5c73-40b1-b6bd-56eff464e16b",
            "author":"ஏற்காடு இளங்கோ",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/05/andhaman_azhagu.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%85%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%ae%e0%ae%be%e0%ae%a9%e0%af%8d-%e0%ae%85%e0%ae%b4%e0%ae%95%e0%af%81-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/05/andhaman_azhagu.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%85%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%ae%e0%ae%be%e0%ae%a9%e0%af%8d-%e0%ae%85%e0%ae%b4%e0%ae%95%e0%af%81-epub/",
            "category":"அறிவியல் கட்டுரைகள்"
         },
         {
            "title":"எளிய தமிழில் Machine Learning",
            "bookid":"6047c38b-589f-47c9-a337-5767fe38ef82",
            "author":"து. நித்யா",
-           "image":"http://freetamilebooks.com/wp-content/uploads/2019/04/learn_machine_learning_in_tamil_cover.jpg",
-           "epub":"http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-machine-learning-epub/",
+           "image":"https://freetamilebooks.com/wp-content/uploads/2019/04/learn_machine_learning_in_tamil_cover.jpg",
+           "epub":"https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-machine-learning-epub/",
            "category":"கணினி நுட்பம்"
         },
         {
